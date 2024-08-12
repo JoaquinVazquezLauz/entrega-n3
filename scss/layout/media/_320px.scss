@@ -1,0 +1,103 @@
+@media (max-width: 320px) {
+    .shop-s1 {
+    padding: 5px;
+    }
+    
+    .ddh div {
+    width: 500px;
+    font-size: 16px;
+    
+    }
+    
+    .ddh h4 {
+        font-size: 16px;
+    }
+    
+    .shop-s2 {
+    gap: 25px;
+    }
+    
+    .shop-s2{
+    padding-bottom: 50px;
+    }
+    
+    .card-2 {
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    }
+    
+    .c2-ar {
+    width: 100px;
+    }
+    
+    .card-2 .c2-img {
+    width: 70%;
+    height: 70%;
+    
+    }
+    
+        .shop-s3 {
+    height: auto;
+    padding: 0px 16px;
+    margin: 50px 0px;
+        }
+    
+    .shop-s3 div {
+        width: 100%;
+    }
+    
+    .shop-s4 {
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+        margin: 0px 0px 50px 0px;
+        padding-top: 150px;
+    }
+    
+    .shop-s4 .shop-s4-img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 5px;
+    }
+    
+    .shop-s4 .shop-s4-h4 {
+        font-size: 25px;
+    margin: 0;
+    }
+    
+        .inter-h2 h2{
+        font-size: 50px;
+    }
+    
+        .inter-s1 article{
+    height: 400px;
+    }
+    
+    .inter-ar1{
+    height: 500px;
+    }
+    
+        .contactos{
+        display: grid;
+        grid-template-columns: 25px 100px;
+        grid-template-rows: repeat(4,25px);
+        height: auto;
+        width: auto;
+    }
+    
+    footer{
+    justify-content: space-around;
+    }
+    
+    footer .footer-img{
+        width: 50px;
+    height: 50px;
+    }
+    
+    .contactos .contactos-img{
+    width: 25px;
+    height: 25px;
+    }
+    
+    }

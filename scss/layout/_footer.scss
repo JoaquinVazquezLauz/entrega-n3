@@ -1,0 +1,96 @@
+footer{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    .footer-lorem{
+        width: 282px;
+        height: 70%;
+        color: white;
+        align-self: self-start;
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+    .footer-img{
+            width: 150px;
+            height:150px;
+            img{
+                height: 100%;
+                width: 100%;
+                border-radius: 100%;
+            }
+    }
+    .contactos{
+            width: 18.75rem;
+            height: 16rem;
+            display: grid;
+            grid-template-columns: 42px 200px;
+            grid-template-rows: repeat(5,1fr);
+            margin-top: 100px;
+            flex-wrap: wrap;
+            a{
+                font-size: 18px;
+                color: white;
+                text-decoration: none;
+                width: 42px;
+                img{
+                    width: 42px;
+                    height: 42px;
+                    border-radius: 100%;
+                }
+            }
+    }
+}
+
+.af1{
+    grid-column: 1/2;
+    grid-row: 2/3;
+    align-self: self-end;
+    }
+    
+    .af2{
+    grid-column: 1/2;
+    grid-row: 3/4;
+    align-self: self-end;
+    }
+    
+    .af3{
+    grid-column: 1/2;
+    grid-row:4/5 ;
+    align-self: self-end;
+    }
+    
+    .af4{
+    grid-column: 2/3;
+    grid-row: 2/3;
+    width: 100px;
+    height: 25px;
+    align-self: flex-end;
+    }
+    
+    .af5{
+    grid-column: 2/3;
+    grid-row: 3/4;
+    width: 100px;
+    height: 25px;
+    align-self: flex-end;
+    }
+    
+    .af6{
+    grid-column: 2/3;
+    grid-row: 4/5;
+    width: 100px;
+    height: 25px;
+    align-self: flex-end;
+    }
+    
+    h5{
+    grid-column: 1/3;
+    grid-row: 1/2;
+    font-size: 25px;
+    align-self: center;
+    color: white;
+    }

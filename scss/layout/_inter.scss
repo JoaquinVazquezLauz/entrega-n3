@@ -1,0 +1,59 @@
+/*INTERNADO*/
+
+
+.inter-h2{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.inter-ar1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    p{
+        width: 600px;
+        height: 350px;
+        }
+}
+
+/*internado section 1*/
+
+.inter-s1{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    gap: 500px;
+    padding-top: 50px;
+    div{
+        width: 400px;
+        height: 400px;
+        img{
+            width: 100%;
+            height: 100%;
+            border-radius: 0px 0px 133px 0px;
+            }
+        }
+        article{
+            flex-wrap: nowrap;
+            width: 600px;
+            height: auto;
+        }
+}
+
+.inter-s2{
+    margin-bottom: 50px;
+}
+
+.footer-inter{
+    margin-top: 150px;
+}

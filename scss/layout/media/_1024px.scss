@@ -1,0 +1,66 @@
+@media (max-width: 1024px) {
+    .shop-s1 {
+    flex-direction: row;
+    height: auto;
+    }
+
+
+
+.ddh div {
+    width: 300px;
+    height: 50px;
+    font-size: 22px;
+    align-self: center;
+    }
+
+
+.ddh h4 {
+    font-size: 22px;
+    margin: 0;
+    }
+
+.shop-s2 {
+    height: auto;
+    flex-direction: row;
+    gap: 20px;
+    }
+
+.card-2 {
+    width: 250px;
+    height: 300px;
+    .c2-ar {
+        width: 90px;
+    }
+    .c2-img {
+        width: 190px;
+        height: 190px;
+        }
+}
+
+.shop-s3 {
+    height: auto;
+    div {
+        width: 100%;
+        height: auto;
+        }
+}
+
+.shop-s4 {
+    flex-direction: row;
+    align-items: center;
+    .shop-s4-img {
+        width: 90px;
+        height: 90px;
+        margin-bottom: 20px;
+        }
+        .shop-s4-h4 {
+            width: 100%;
+            height: auto;
+            font-size: 28px;
+            }
+    }
+}
+
+.index-s3{
+    height: auto;
+}

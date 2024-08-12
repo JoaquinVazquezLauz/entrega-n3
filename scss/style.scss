@@ -1,0 +1,32 @@
+@import "./utilities/mixins";
+
+
+
+
+
+@import "./base/resets";
+
+
+
+@import "./layout/header";
+@import "./layout/index";
+@import "./layout/tours";
+@import "./layout/diving";
+@import "./layout/shop";
+@import "./layout/inter";
+@import "./layout/footer";
+
+
+
+@import "./components/cards"; 
+
+
+
+
+@import "./layout/media/1500px";
+@import "./layout/media/1100px";
+@import "./layout/media/1024px";
+@import "./layout/media/768px";
+@import "./layout/media/580px";
+@import "./layout/media/450px";
+@import "./layout/media/320px";

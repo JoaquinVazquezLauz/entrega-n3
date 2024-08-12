@@ -1,0 +1,198 @@
+@media (max-width: 580px)
+        {
+        
+            nav ul li a {
+                text-decoration: none;
+                font-size: 15px;
+            }
+        
+            header{
+        height: 75px;
+        
+        }
+        
+        header div{
+        width: 35px;
+        height: 35px;
+        }
+        
+        nav{
+        padding: 0%;
+        margin: 0;
+        }
+        
+        nav ul{
+        gap: 10px;
+        }
+        
+        ul li a{
+        font-size: 15px;
+        }
+        
+        .index-s2{
+            h2{
+                font-size: 65px;
+            }
+        }
+
+
+        .shop-s1 {
+        padding: 5px;
+        }
+        
+            .ddh div {
+            width: 100%;
+        font-size: 18px;
+        }
+        
+            .ddh h4 {
+        font-size: 18px;
+        }
+        
+        .tours-s2 .card{
+            height: 100px;
+            width: 300px;
+            .card-img{
+                height: 100px;
+                width: 100px;
+            }
+            .card-info{
+                p{
+                    margin: 0px;
+                    font-size: 8px;
+                }
+                button{
+                    height: 15px;
+                    width: 30px;
+                    font-size: 9px;
+                    justify-self: center;
+                    border-radius: 5px;
+                }
+                height: auto;
+                width: 175px;
+            }
+        }
+
+        .shop-s2 {
+            gap: 10px;
+        }
+        
+        .card-2 {
+        width: 100%;
+        }
+        
+        .c2-ar {
+        width: 70px;
+        }
+        
+        .card-2 .c2-img {
+        width: 80px;
+        height: 80px;
+        }
+        
+            .shop-s3 {
+        height: auto;
+        }
+        
+        .shop-s3 div {
+        width: 100%;
+        }
+        
+        .shop-s4 {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .shop-s4 .shop-s4-img {
+        width: 70px;
+        height: 70px;
+            margin-bottom: 10px;
+        }
+        
+        .shop-s4 .shop-s4-h4 {
+            font-size: 20px;
+        }
+        
+        main .inter-s1{
+        height: 900px;
+            gap: 50px;
+        }
+        
+        .inter-s1 div{
+        width: 200px;
+        height: 200px;
+        }
+        
+        .inter-s1 div img{
+        border-radius: 100%;
+        }
+        
+        main .inter-ar1{
+        height: 250px;
+        
+        }
+
+        .inter-s2{
+            margin-bottom: 500px;
+        }
+        
+        p{
+            font-size: 10px;
+            margin: 16px;
+        }
+        
+            h3{
+        margin: 16px;
+        }
+        
+            h2{
+        font-size: 50px;
+        }
+        
+        .shop-s2 {
+        gap: 25px;
+        padding-bottom: 50px;
+        margin: 0;
+        }
+        
+        
+        .card-2 {
+        width: 200px;
+        height: 250px;
+            border-radius: 10px;
+            }
+        
+            .c2-ar {
+        width: 100px;
+        }
+        
+            .card-2 .c2-img {
+            width: 70%;
+            height: 70%;
+        
+        }
+        
+            .contactos{
+            display: grid;
+            grid-template-columns: 25px 100px;
+            grid-template-rows: repeat(4,25px);
+            margin: 0;
+            height: auto;
+            width: auto;
+        }
+        
+        footer{
+        justify-content: space-around;
+        }
+        
+        footer .footer-img{
+            width: 50px;
+            height: 50px;
+            display: none;
+            }
+        
+        .contactos .contactos-img{
+        width: 25px;
+            height: 25px;
+        }
+        }
